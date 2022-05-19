@@ -19,7 +19,8 @@ class SearchTest(unittest.TestCase):
 
     @classmethod
     def setUp(self):
-        self.driver = webdriver.Chrome(executable_path = r'C://Users//saman//Downloads//Studies//Selenium_python//chromedriver_win32//chromedriver.exe')
+        #Change the path with the correct ubication where it is the chromedriver
+        self.driver = webdriver.Chrome(executable_path = r'C://Users//saman//OneDrive//Sandra_Rojas//Studies//Selenium_python//chromedriver_win32//chromedriver.exe')
 
     @data(*get_data('testdata.csv'))
     @unpack

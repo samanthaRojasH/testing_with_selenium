@@ -1,21 +1,19 @@
-# APIS SLC 💚 :) [![@SamanthaRojasH](https://i.imgur.com/skj3q6L.png?2 "@SamanthaRojasH")](https://i.imgur.com/skj3q6L.png?2 "@SamanthaRojasH")
+# Testing with Selenium 💚 :) [![@SamanthaRojasH](https://i.imgur.com/skj3q6L.png?2 "@SamanthaRojasH")](https://i.imgur.com/skj3q6L.png?2 "@SamanthaRojasH")
 
-Este es el primer proyecto de APIS sencillas que he logrado desarrollar con los conocimientos adquiridos en [Platzi](https://platzi.com/ "Platzi") y  en otras fuentes de conocimiento. Está desarrollado con Flask en el lenguaje Python con conexión a MySQL. Este proyecto fue desarrollado para contribuir con mi trabajo como voluntaria en la comunidad Scrum Latam, a la cual me siento muy orgullosa de pertenecer.
+This is my first automation project with Selenium that I've achieved to develop with the knowledge of [Platzi](https://platzi.com/ "Platzi") and another knowledge sources, like [seleniumacademy](https://www.seleniumacademy.net/ "seleniumacademy") and internet sources. It is developed with python. This project is developed with the goal to show the practice of all adquired knowledge.
 
 
-> Si quieres conocer un poco más de mi, puedes hacerlo en:
+> If you want to meet about me, you can do at:
 >
 > - [LinkedIn Sandra](https://www.linkedin.com/in/sandra-rojas-herran/ "LinkedIn")
 > - [Twitter @SamanthaRojasH](https://twitter.com/SamanthaRojasH "Twitter @SamanthaRojasH")
 
-## Recomendaciones para usar el proyecto
-* Crear nuestro entorno virtual en la carpeta del proyecto.
-* Si lo vas en tu ambiente local sigue, ejecuta los siguientes comandos, si eres SO Windows:
+## Recomendations to use the project
+* Create our virtual environment in the project directory.
+* Install the requirements with the next command:
 
 ```
-	- set FLASK_APP=rest.py
-	- set FLASK_ENV=development
-	- flask run
+	pip install -r requirements.txt
 ```
 
-> **Haz tus proyectos con amor y con pasión y lograrás grandes éxitos.**
+> ** Do it your projects with love and passion and you achieve that you want it. **
