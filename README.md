@@ -16,4 +16,4 @@ This is my first automation project with Selenium that I've achieved to develop 
 	pip install -r requirements.txt
 ```
 
-> ** Do it your projects with love and passion and you achieve that you want it. **
+> **Do it your projects with love and passion and you achieve that you want it.**
